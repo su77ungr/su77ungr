@@ -11,7 +11,7 @@
     
 <br><br>  
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%26t%3D1s&size=220x220&margin=0">
+  <img src="https://user-images.githubusercontent.com/69374354/168800295-15aab6f9-e48e-49c8-a6ed-46136af88ab6.png">
   <br>
 
 
@@ -20,7 +20,7 @@
   
   
   
-  
+
   
   
   
