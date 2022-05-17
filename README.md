@@ -1,10 +1,35 @@
 
 
-  <div id="badges" align="center">
-    <h1>
+  <div align="center">
+    <h3>
  
     creative coder, aspiring developer and student at law.
     
-  </h1>
+  </h3>
 
+   </div>
+    
+<br><br>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=su77ungr">
+  
+  <br>
+ 
 
+  
+
+  <br><br>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</p>
+<br>
+<p></p>
