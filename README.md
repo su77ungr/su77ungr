@@ -1,4 +1,12 @@
-
+<div id="badges" align="center">
+    <h1>
+ 
+    Welcome
+    
+  </h1>  
+  <a href="https://twitter.com/chialisp">
+    <img src="https://64.media.tumblr.com/3121f994e1e28da404a1c953bad557e8/tumblr_mfzyw50YKd1rq9asdo1_500.gif" alt="Twitter Badge"/>
+</div>
 
 <p align="center">I'm a creative coder, aspiring developer and student at law.</p>
 
