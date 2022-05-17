@@ -1,14 +1,15 @@
-<div id="badges" align="center">
+
+
+  <div id="badges" align="center">
     <h1>
  
-    Welcome
+    I'm a creative coder, aspiring developer and student at law.
     
-  </h1>  
-   I'm a creative coder, aspiring developer and student at law.
+  </h1>
+   <br><br>   
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Facegif.com%2Fwp-content%2Fuploads%2Floading-23.gif&f=1&nofb=1">
 </div>
-
-  
-  
+    
 <br><br>  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=su77ungr">
@@ -18,7 +19,6 @@
 
   <br><br>
 
-     
   
   
   
