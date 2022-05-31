@@ -3,7 +3,7 @@
   <div align="center">
     <h3>
  
-    creative coder, aspiring developer and student at law.
+    creative coder.
     
   </h3>
 
