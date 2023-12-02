@@ -7,10 +7,6 @@
 <br>
 <br>
 <br>
-
-
-<br>
-<br>
 <img width=350 src="https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstorage.link">
 <br>
 </div>
@@ -22,4 +18,7 @@
 [ tentationes sancti antonii, 2021 ]
 </samp>
 
+<br>
+<br>
+<br>
 </div>
