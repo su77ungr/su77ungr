@@ -17,7 +17,7 @@
 <samp>
 <br>
   
-[Einstein on the beach <br> yet in reach <br>them computers to besiege]()
+<img width=350 src="https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstorage.link">
   
 </samp>
 
