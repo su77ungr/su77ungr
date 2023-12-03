@@ -21,6 +21,9 @@
 
 <br>
 
+![IMG_5773](https://github.com/su77ungr/su77ungr/assets/69374354/19ae8748-35aa-4727-a75a-9e2c3711548c)
+
+
 Proud benefactor of 無生殖協会｜Antinatalism Japan
 
 </samp>
