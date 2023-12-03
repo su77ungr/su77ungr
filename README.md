@@ -17,10 +17,10 @@
 <samp>
 <br>
   
-<h1> Benefactor of 無生殖協会｜Antinatalism Japan </h1>
+<h2> Benefactor of 無生殖協会｜Antinatalism Japan </h2>
 
 
-![IMG_5802](https://github.com/su77ungr/su77ungr/assets/69374354/7233e488-4b6d-4a60-8392-37fe20189c59)
+<img width=550 src="https://github.com/su77ungr/su77ungr/assets/69374354/7233e488-4b6d-4a60-8392-37fe20189c59">
 
 
 
