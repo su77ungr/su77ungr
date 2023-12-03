@@ -23,7 +23,7 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 
 <samp>
 
-[Synopticon, 2023 (SDXL1.0)]
+[Synopticon, 2023 ]
 
 <br>
 
