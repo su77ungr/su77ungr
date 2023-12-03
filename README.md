@@ -10,8 +10,8 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 
 
 <samp>
-
-![tost](https://github.com/su77ungr/su77ungr/assets/69374354/21c02696-9e4b-45e5-a9c5-7bb63235d425)
+  
+<img width=550 src="https://github.com/su77ungr/su77ungr/assets/69374354/36937750-3d37-418e-be92-543402e01e5f">
 
 
 <br>
