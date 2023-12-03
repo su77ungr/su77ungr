@@ -14,11 +14,18 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 <div align="center">
 
 
-<img width=450 src="https://github.com/su77ungr/su77ungr/assets/69374354/c1c1bcf2-ee64-49a7-bfc5-e35df2f6ebf4"> 
+
+![IMG_5813](https://github.com/su77ungr/su77ungr/assets/69374354/531c96a9-0eaf-4eb6-97cf-5b495f15b02d)
+
+
+
 
 
 <samp>
-<br
+
+[Synopticon, 2023 (SDXL1.0)]
+
+<br>
 
 
 <br>
@@ -31,3 +38,4 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 <br>
 <br>
 </div>
+
