@@ -16,8 +16,8 @@
 
 <samp>
 <br>
-  
-<img width=350 src="https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstorage.link">
+
+[ tentationes sancti antonii ] 
   
 </samp>
 
