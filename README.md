@@ -17,12 +17,14 @@
 <samp>
 <br>
   
-Benefaktor des Antinatalistischen Programms. 
+>46 BTC Benefaktor des Antinatalistischen Programms. 
+
+![IMG_5802](https://github.com/su77ungr/su77ungr/assets/69374354/7233e488-4b6d-4a60-8392-37fe20189c59)
 
 
 
-  
-<img width=600 src="https://github.com/su77ungr/su77ungr/assets/69374354/d50908f6-28f8-47dd-9046-f1f2b3a4ad8e">
+
+
 
 </samp>
 
