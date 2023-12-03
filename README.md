@@ -16,9 +16,14 @@
 
 <samp>
 <br>
-
-[ tentationes sancti antonii ] 
   
+Benefaktor des Antinatalistischen Programms. 
+
+
+
+  
+<img width=600 src="https://github.com/su77ungr/su77ungr/assets/69374354/d50908f6-28f8-47dd-9046-f1f2b3a4ad8e">
+
 </samp>
 
 <br>
