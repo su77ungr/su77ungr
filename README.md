@@ -12,13 +12,16 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 
 
 <samp>
+
+![download-removebg-preview](https://github.com/su77ungr/su77ungr/assets/69374354/758c1c58-4592-40c0-b860-6f67ee792e29)
+
   
-<img width=550 src="https://github.com/su77ungr/su77ungr/assets/69374354/36937750-3d37-418e-be92-543402e01e5f">
-
 
 <br>
 <br>
 <br>
+banksy runs without a phone 
+
 </samp>
 
 </div>
