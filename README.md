@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 
-Proud benefactor of 無生殖協会｜Antinatalism Japan
+Proud benefactor of Antinatalism Japan
 https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstorage.link
 --->
 
@@ -13,9 +13,10 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 
 <samp>
 
-![download-removebg-preview](https://github.com/su77ungr/su77ungr/assets/69374354/758c1c58-4592-40c0-b860-6f67ee792e29)  
-
 <br>
+
+<img width=600 src="https://github.com/su77ungr/su77ungr/assets/69374354/a140aa9f-c33c-41dd-8515-3d677971a95e">
+
 <br>
 <br>
 </samp>
