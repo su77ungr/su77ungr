@@ -7,7 +7,6 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 <br>
 
 
-<samp> Ist ein weites Feld bis der Simulator brennt </samp>
 <br>
 <br>
 
