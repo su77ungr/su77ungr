@@ -15,10 +15,12 @@ https://bafybeie2et43spm2hi4bpgtzjv4sf7euncaqdqdaklnufqmldfnjhow3vq.ipfs.nftstor
 
 <br>
 
-<img width=700 src="https://github.com/su77ungr/su77ungr/assets/69374354/a140aa9f-c33c-41dd-8515-3d677971a95e">
+<img width=700 src="https://github.com/su77ungr/su77ungr/assets/69374354/89129a80-051b-4999-9046-43c4fb1b2d86">
 
 <br>
 <br>
+
+
 
 Umashimenkana contra 無生殖協会 
 </samp>
