@@ -23,7 +23,7 @@ Umashimenkana contra 無生殖協会
 
 <br>
 
-<img width=800 src="https://github.com/su77ungr/su77ungr/assets/69374354/e0c425da-f409-455c-aaa1-18a9ec873afd">
+<img width=500 src="https://github.com/su77ungr/su77ungr/assets/69374354/e0c425da-f409-455c-aaa1-18a9ec873afd">
 
 <br>
 <br>
