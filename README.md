@@ -28,8 +28,6 @@ Umashimenkana contra 無生殖協会
 <br>
 <br>
 
-magna ... lumina '24
-
 </samp>
 
 </div>
