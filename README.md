@@ -5,8 +5,12 @@
   <img src="https://github.com/user-attachments/assets/755297ba-bdb3-49fa-b83d-9f0c9a9b3746" width="500">
 <samp> <h5> untitled, 2023 </samp></h4>
 <br>
-<br>
-<!-- <samp>  <img src=https://github.com/user-attachments/assets/505d622c-6e94-4d5b-a749-95ab0d398f50 width="500"> [ missing one, 2023 ] </samp> -->
+<br>  
+  
+------
+
+<img width="200" src="https://github.com/user-attachments/assets/ef46f628-ca71-48d4-ae36-9a2c40af668d" width="250"> 
+
 </div>
 <br>
 <br>
