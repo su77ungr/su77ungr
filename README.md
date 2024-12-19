@@ -9,9 +9,10 @@
 
 
     <br>
-    <img src="https://github.com/user-attachments/assets/bd0685c8-cb9a-485d-bc53-fc8a9b7b1898" width="150">
+    <img src="https://github.com/user-attachments/assets/bd0685c8-cb9a-485d-bc53-fc8a9b7b1898" width="170">
     <br>
-
+    <br>
+    <samp> lyrical(at)skiff.com
     <br>
     
 </div>
