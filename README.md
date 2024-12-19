@@ -12,7 +12,6 @@
     <img src="https://github.com/user-attachments/assets/2229c63f-f935-4544-9e20-5bee60691d94" width="450">
     <br>
     <br>
-    <samp> lyrical(at)skiff.com
     <br>
     
 </div>
