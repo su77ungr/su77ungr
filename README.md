@@ -13,7 +13,7 @@
     <img src="https://github.com/user-attachments/assets/0c558a3e-10af-4313-92f2-53027325ba18" width="170">
     <br>
     
-    <samp> fight the loop for more humane technology </samp>
+    <samp> dreams don't loop </samp>
     <br>
     <br>
     <br>
