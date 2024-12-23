@@ -11,7 +11,7 @@
     <br>
     <br>
 
-    [ <img src="https://github.com/user-attachments/assets/cd15c3f3-7975-4a95-8eb9-a1d9f65c381f" width="250"> ] <br>
+    [ <img src="https://github.com/user-attachments/assets/cd15c3f3-7975-4a95-8eb9-a1d9f65c381f" width="233"> ] <br>
 
 
     <br>
