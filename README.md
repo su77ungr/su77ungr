@@ -12,9 +12,7 @@
     <br>
 
      <img src="https://github.com/user-attachments/assets/cd15c3f3-7975-4a95-8eb9-a1d9f65c381f" width="233"> <br>
-     <img src="https://github.com/user-attachments/assets/cd15c3f3-7975-4a95-8eb9-a1d9f65c381f" width="233"> <br>
-     <img src="https://github.com/user-attachments/assets/cd15c3f3-7975-4a95-8eb9-a1d9f65c381f" width="233"> <br>
-
+     <img src="https://github.com/user-attachments/assets/c96f6e86-f7c9-4140-9ca3-9e4b60a4e4dc" width="233"> <br>
 
     <br>
     <br>
