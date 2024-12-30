@@ -23,10 +23,10 @@
         <img src="https://github.com/user-attachments/assets/6389accb-daed-4350-a91f-f214178998fd" width="177">
     </a>
     <br>
-    <br>
     <a href="https://github.com/casalioy">
-        <img src="https://github.com/user-attachments/assets/1ff4f8c2-ea0e-41df-ac03-2f5e6da7352f" width="177"> 
+        <img src="https://github.com/user-attachments/assets/7fce1c3c-b7f9-4d9a-9fcc-86df28be6f7f" width="177"> 
     </a>
+
 
 
     <br>
