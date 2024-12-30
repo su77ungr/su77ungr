@@ -17,10 +17,17 @@
     <br>
 
 
-          
-      <img src="https://github.com/user-attachments/assets/00392a5e-cd46-426b-bd71-19365ab28e8a" width="177"> <br>
-      <br>
-      <img src="https://github.com/user-attachments/assets/59638334-d804-4054-bab4-b05b30378d7c" width="177"> <br>
+    </a>
+    <br>
+    <a href="https://github.com/casalioy">
+        <img src="https://github.com/user-attachments/assets/6389accb-daed-4350-a91f-f214178998fd" width="177">
+    </a>
+    <br>
+    <br>
+    <a href="https://github.com/casalioy">
+        <img src="https://github.com/user-attachments/assets/1ff4f8c2-ea0e-41df-ac03-2f5e6da7352f" width="177"> 
+    </a>
+
 
     <br>
     <br>
