@@ -50,9 +50,20 @@
 ---!>
 
 <div align="center">
-<img src="https://write-me-gules.vercel.app/read_text" width="250">
+<img src="https://write-me-gules.vercel.app/read_text" width="250">     
+
+<img src="https://github.com/user-attachments/assets/402c49c2-addf-4453-8e1a-0b8d091ac22f" width="200">    
 <br>
 <br>
+<br>
+<br>
+<br>
+
+<samp>    
+<h6> 
+</h6>
+</samp>
+
 
   <a href="https://write-me-gules.vercel.app/add_letter/q"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_q.svg" alt="Q" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/w"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_w.svg" alt="W" width="20"></a>
@@ -83,8 +94,8 @@
   <a href="https://write-me-gules.vercel.app/add_letter/n"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_n.svg" alt="N" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/m"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_m.svg" alt="M" width="20"></a>
   <br>
-        <a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
-          <a href="https://write-me-gules.vercel.app/add_letter/space"><img 
-  <img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_space.svg" alt="SPACE" height="20"></a>
-      <a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
+<a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
+<a href="https://write-me-gules.vercel.app/add_letter/space">
+<img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_space.svg" alt="SPACE" height="20"></a>
+<a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
 </div>
