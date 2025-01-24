@@ -59,7 +59,7 @@
   <a href="https://write-me-gules.vercel.app/add_letter/e"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_e.svg" alt="E" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/r"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_r.svg" alt="R" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/t"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_t.svg" alt="T" width="20"></a>
-  <a href="https://write-me-gules.vercel.app/add_letter/y"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_y.svg" alt="Y" width="20"></a>
+  <a href="https://write-me-gules.vercel.app/add_letter/z"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_z.svg" alt="Z" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/u"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_u.svg" alt="U" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/i"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_i.svg" alt="I" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/o"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_o.svg" alt="O" width="20"></a>
@@ -75,7 +75,7 @@
   <a href="https://write-me-gules.vercel.app/add_letter/k"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_k.svg" alt="K" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/l"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_l.svg" alt="L" width="20"></a>
   <br>
-  <a href="https://write-me-gules.vercel.app/add_letter/z"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_z.svg" alt="Z" width="20"></a>
+  <a href="https://write-me-gules.vercel.app/add_letter/z"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_y.svg" alt="Y" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/x"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_x.svg" alt="X" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/c"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_c.svg" alt="C" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/v"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_v.svg" alt="V" width="20"></a>
