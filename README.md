@@ -86,7 +86,7 @@
   <a href="https://write-me-gules.vercel.app/add_letter/k"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_k.svg" alt="K" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/l"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_l.svg" alt="L" width="20"></a>
   <br>
-  <a href="https://write-me-gules.vercel.app/add_letter/z"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_y.svg" alt="Y" width="20"></a>
+  <a href="https://write-me-gules.vercel.app/add_letter/y"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_y.svg" alt="Y" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/x"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_x.svg" alt="X" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/c"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_c.svg" alt="C" width="20"></a>
   <a href="https://write-me-gules.vercel.app/add_letter/v"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_v.svg" alt="V" width="20"></a>
