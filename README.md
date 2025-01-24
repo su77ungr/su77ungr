@@ -52,7 +52,6 @@
 <div align="center">
 <img src="https://write-me-gules.vercel.app/read_text" width="250">     
 
-<img src="https://github.com/user-attachments/assets/402c49c2-addf-4453-8e1a-0b8d091ac22f" width="200">    
 <br>
 <br>
 <br>
