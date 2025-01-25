@@ -103,12 +103,15 @@
 <a href="http://anbusch.de">
 
 
-<img src="https://github.com/user-attachments/assets/22b033b3-4f83-4d84-9c4e-2b74219cb304" width="450"> 
-
-
-
+<img src="https://github.com/user-attachments/assets/22b033b3-4f83-4d84-9c4e-2b74219cb304" width="350"> 
 </a>
 <br>
+<a href="http://anbusch.de">
+
+<img src="https://github.com/user-attachments/assets/b40d09ae-51b7-4e3a-b012-753cb26948ba" width="200"> 
+
+</a>
+
 <br>
 <br>
 <br>
