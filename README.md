@@ -93,22 +93,22 @@
 <img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_space.svg" alt="SPACE" height="20"></a>
 <a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
 </div>
-
-
 ---!>
 
-<div align="center">
+<div align="left">
 
 
 <a href="http://anbusch.de">
 
 
-<img src="https://github.com/user-attachments/assets/22b033b3-4f83-4d84-9c4e-2b74219cb304" width="350"> 
+<img src="https://github.com/user-attachments/assets/6756c801-b359-44c9-97cc-bd3e363da574"  height="700"> 
 </a>
-<br>
+
+<div align="right">
+
 <a href="http://anbusch.de">
 
-<img src="https://github.com/user-attachments/assets/b40d09ae-51b7-4e3a-b012-753cb26948ba" width="200"> 
+<img src="https://github.com/user-attachments/assets/b40d09ae-51b7-4e3a-b012-753cb26948ba" width=100"> 
 
 </a>
 
