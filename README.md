@@ -20,6 +20,7 @@
 |         WriteME (no GitHub actions) (currently active)         |
 |       dead simple sqlite comment bin for GitHub profiles       |
 |                                                                |
+|    just GET https://write-me-gules.vercel.app/add_letter/a     |
 |                       creator su77ungr                         |
 |                                                                | 
 +----------------------------------------------------------------+
@@ -47,21 +48,13 @@
 |                        creator su77ungr                        |
 |                                                                | 
 +----------------------------------------------------------------+
----!>
 
-<div align="center">
-<img src="https://write-me-gules.vercel.app/read_text" width="250">     
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <samp>    
 <h6> 
 </h6>
 </samp>
+
 
 
   <a href="https://write-me-gules.vercel.app/add_letter/q"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_q.svg" alt="Q" width="20"></a>
@@ -98,3 +91,16 @@
 <img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_space.svg" alt="SPACE" height="20"></a>
 <a href="https://write-me-gules.vercel.app/add_letter/space"><img src="https://github.com/Casalioy/CC_Design/blob/main/keycap_svgs/letter_keycap_empty.svg" alt="S" width="20"></a>
 </div>
+
+
+---!>
+
+<div align="center">
+<img src="https://write-me-gules.vercel.app/read_text" width="250">     
+<img src="https://github.com/user-attachments/assets/b9cdf173-9a91-4117-8f4b-b30d1da6feb3" width="250">     
+
+<br>
+<br>
+<br>
+<br>
+<br>
