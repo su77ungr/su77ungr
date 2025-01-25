@@ -21,6 +21,8 @@
 |       dead simple sqlite comment bin for GitHub profiles       |
 |                                                                |
 |    just GET https://write-me-gules.vercel.app/add_letter/a     |
+|           https://write-me-gules.vercel.app/read_text          | 
+|                                                                | 
 |                       creator su77ungr                         |
 |                                                                | 
 +----------------------------------------------------------------+
@@ -96,8 +98,7 @@
 ---!>
 
 <div align="center">
-<img src="https://write-me-gules.vercel.app/read_text" width="250">     
-<img src="https://github.com/user-attachments/assets/b9cdf173-9a91-4117-8f4b-b30d1da6feb3" width="250">     
+<img src="https://github.com/user-attachments/assets/b9cdf173-9a91-4117-8f4b-b30d1da6feb3" width="350">     
 
 <br>
 <br>
