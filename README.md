@@ -101,14 +101,22 @@
 <a href="http://anbusch.de">
 
 
-<img src="https://github.com/user-attachments/assets/6756c801-b359-44c9-97cc-bd3e363da574"  height="700"> 
+<img src="https://github.com/user-attachments/assets/878c185d-a2fc-4f9d-871e-0bfd907fecda" width="350" height="100"> 
 </a>
+
+
+<br>
+<br>
+
+<br>
+<br>
+
 
 <div align="right">
 
-<a href="http://anbusch.de">
+Next up. Breaking Apple's BLE for non-local sidecar sessions.
 
-<img src="https://github.com/user-attachments/assets/b40d09ae-51b7-4e3a-b012-753cb26948ba" width=100"> 
+<a href="http://anbusch.de">
 
 </a>
 
