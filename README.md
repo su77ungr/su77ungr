@@ -101,9 +101,6 @@
 <a href="http://anbusch.de">
 
 
-<img src="https://github.com/user-attachments/assets/a325c85d-5e47-4940-a0da-89d4a86c70fa" height="300"> 
-
-
 </a>
 
 
@@ -116,7 +113,7 @@
 
 <div align="right">
 
-Next up. Breaking Apple's BLE for non-local sidecar sessions.
+Next up. <a href="anbusch.de">anbusch.de</a>
 
 <a href="http://anbusch.de">
 
