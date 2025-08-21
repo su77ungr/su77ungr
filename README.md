@@ -61,7 +61,7 @@
 
 <samp>
 <h3> 
-Next up. Securing   <a href="bundesverfassungsgericht.de">bundesverfassungsgericht.de</a> & Co. with <a href="https://anubis.techaro.lol/"><img width="80" src="https://anubis.techaro.lol/assets/images/reject-ceb3caf7f775212255f38c9f20c155bd.webp"></img></a>
+Next up.    <a href="/">blue-teaming</a> with <a href="https://anubis.techaro.lol/"><img width=50" src="https://anubis.techaro.lol/assets/images/reject-ceb3caf7f775212255f38c9f20c155bd.webp"></img></a>
 </h3>
 </samp>
 
