@@ -69,7 +69,7 @@
 <br><br>
 
 <a href="mailto:contact@anbusch.de">
-Len ten, kto si slobodu vybojoval, je jej hoden</a>
+banksy has no phone</a>
 </img>
 
 
