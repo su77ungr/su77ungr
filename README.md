@@ -68,11 +68,20 @@
 
 <br><br>
 
-<a href="mailto:contact@anbusch.de">
-banksy has no phone</a>
+
 </img>
 
 
+<a href="https://www.youtube.com/watch?v=anEykhlBd-Q&t=828s">
+[Stanford Seminar - Time Well Spent, Tristan Harris]
+</a>
+
+
+
+
+
+
+<br> 
 </h4>
 </samp>
 </a>
