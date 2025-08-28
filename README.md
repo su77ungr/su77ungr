@@ -72,7 +72,7 @@
 </img>
 
 
-<a href="https://www.youtube.com/watch?v=anEykhlBd-Q&t=828s">
+<a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828">
 [Stanford Seminar - Time Well Spent, Tristan Harris]
 </a>
 
