@@ -69,9 +69,7 @@
 <br><br>
 
 <a href="mailto:contact@anbusch.de">
-
-<img width=82.00 src="https://0x0.st/KolP.jpeg">
-</a>
+contact(at)anbusch.de</a>
 </img>
 
 
