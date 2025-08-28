@@ -69,7 +69,7 @@
 <br><br>
 
 <a href="mailto:contact@anbusch.de">
-contact(at)anbusch.de</a>
+Len ten, kto si slobodu vybojoval, je jej hoden</a>
 </img>
 
 
