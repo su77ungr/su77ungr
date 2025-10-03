@@ -51,14 +51,11 @@
 <div align="right">
 <samp>
 <h4> 
-<img width=300 src="https://0x0.st/8h3z.jpeg"></img>
+<img src="https://github.com/user-attachments/assets/83f76d08-e7f4-492c-b284-230e21071d94"></img>
 <br><br>
 </img>
-</a>
-Im Jahr 1924 bestand er im <br>
-zweiten Versuch das Examen <br> 
-In dem ersten Versuch da bemühte er eine <br>
-Aufgabe mit einer sich reimenden Antwort <br>
+
+1924 bestand er im zweiten Versuch das Examen. In dem ersten Versuch löste er eine Aufgabe mit einer sich reimenden Antwort <br>
 <br> 
 </h4>
 </samp>
