@@ -26,23 +26,10 @@
 +----------------------------------------------------------------+
 
 +----------------------------------------------------------------+
-|                     Synopticon - Banksy, 2023                  |
-|                      stable diffusion image                    |
-|                                                                | 
-|                           IPFS CID                             |
-|   bafybeiha2v2ncggz5wdzrpkgg5lvdmd2z7strtird36jmy4jkssyhnqacq  |
-|                                                                |
-|           https://{CID}.ipfs.{gateway-domain}/{CID}            |
-|                        creator su77ungr                        |
-|                                                                | 
-+----------------------------------------------------------------+
-
-+----------------------------------------------------------------+
-|                        Wikipedia.org, 2025                     |
-|                        Peter Wessel Zappfe                     |
+|                       Wikipedia.org, 2025                      |
+|                       Peter Wessel Zapffe                      |
 |                                                                | 
 |          1924 bestand er im zweiten Versuch das Examen.        |
-|                                                                |
 |              Im ersten Versuch löste er eine Aufgabe           |
 |                 mit einer sich reimenden Antwort.              |
 |                                                                | 
