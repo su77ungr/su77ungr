@@ -9,8 +9,6 @@
 |                   WAIT FOUR SECONDS FOR PAINT                  | 
 |                                                                | 
 |                <img src="http://t1p.de/readmeR">               | 
-|                                                                |  
-|                                                                | 
 |                       creator su77ungr                         | 
 |                                                                | 
 +----------------------------------------------------------------+
@@ -39,6 +37,16 @@
 |                                                                | 
 +----------------------------------------------------------------+
 
++----------------------------------------------------------------+
+|                        Wikipedia.org, 2025                     |
+|                        Peter Wessel Zappfe                     |
+|                                                                | 
+|          1924 bestand er im zweiten Versuch das Examen.        |
+|                                                                |
+|              Im ersten Versuch löste er eine Aufgabe           |
+|                 mit einer sich reimenden Antwort.              |
+|                                                                | 
++----------------------------------------------------------------+
 ---!>
 
 <div align="center">
@@ -51,8 +59,6 @@
 <img src="https://github.com/user-attachments/assets/83f76d08-e7f4-492c-b284-230e21071d94"></img>
 <br><br>
 </img>
-
-1924 bestand er im zweiten Versuch das Examen. Im ersten Versuch löste er eine Aufgabe mit einer sich reimenden Antwort <br>
 <br> 
 </h4>
 </samp>
