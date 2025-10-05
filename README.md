@@ -43,7 +43,7 @@
 <br>
 <samp>
 <h4> 
-<img src="https://github.com/user-attachments/assets/1fc15875-4aa1-4155-adb4-edafa21f4525"></img>
+<img src="https://0x0.st/KMGa.jpeg"></img>
 
 
 <br><br>
