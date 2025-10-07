@@ -48,7 +48,8 @@
 <img src="https://github.com/user-attachments/assets/edee8bfd-7209-43ab-8b85-9210809dc1bc"></img>
 
 
-Banksy still has no phone, 2025
+<a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828"> Banksy still has no phone, 2025 </a>
+
 
 <br><br>
 </img>
