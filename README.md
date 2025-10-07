@@ -48,7 +48,7 @@
 <img src="https://github.com/user-attachments/assets/edee8bfd-7209-43ab-8b85-9210809dc1bc"></img>
 
 
-
+Banksy still has no phone, 2025
 
 <br><br>
 </img>
