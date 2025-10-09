@@ -43,12 +43,10 @@
 <br>
 <samp>
 <h4> 
+<img width="368" height="368" alt="suttungr" src="https://github.com/user-attachments/assets/084b9100-4e2b-49e4-a68c-bbad23af60b6" />
 
-<img src="https://0x0.st/Kum2.webp">
 
 <a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828"> Swap phone for landline  </a>
-
-
 <br><br>
 </img>
 <br> 
