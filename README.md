@@ -44,6 +44,8 @@
 <samp>
 <h4> 
 
+<img src="https://0x0.st/Kum2.webp">
+
 <a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828"> Swap phone for landline  </a>
 
 
