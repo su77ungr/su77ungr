@@ -44,7 +44,7 @@
 <samp>
 <h4> 
 
-<a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828"> Banksy still has no phone, 2025 </a>
+<a href="https://www.youtube-nocookie.com/embed/anEykhlBd-Q?popout=1&autoplay=1&loop=0&controls=1&start=828"> Swap phone for landline  </a>
 
 
 <br><br>
