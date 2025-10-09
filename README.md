@@ -43,7 +43,8 @@
 <br>
 <samp>
 <h4> 
-<img width="auto" alt="" src="https://0x0.st/8h3i.jpeg" />
+<img width="auto" alt="" src="https://0x0.st/KAO1.jpeg" />
+<br>
 
 
 <a href=""> Throw away your phone and start thinking.   </a>
