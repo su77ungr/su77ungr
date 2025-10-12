@@ -43,7 +43,12 @@
 <br>
 <samp>
 <h4> 
-<img width="333px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
+<img width="320px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
+
+<img width="333px" alt="" src="https://github.com/user-attachments/assets/19426ee8-3102-491f-bf85-9f9969929bd9" />
+
+
+
 <br><br>
 <br><br>
 </img>
