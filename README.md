@@ -25,15 +25,20 @@
 |                                                                | 
 +----------------------------------------------------------------+
 
+
 +----------------------------------------------------------------+
-|                       Wikipedia.org, 2025                      |
-|                       Peter Wessel Zapffe                      |
+|                        Kasperspy, 2025                         |
 |                                                                | 
-|          1924 bestand er im zweiten Versuch das Examen.        |
-|              Im ersten Versuch löste er eine Aufgabe           |
-|                 mit einer sich reimenden Antwort.              |
+|                        creator su77ungr                        |
 |                                                                | 
 +----------------------------------------------------------------+
+
+github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b
+
+
+<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
+
+
 ---!>
 
 <div align="center">
@@ -43,15 +48,12 @@
 <br>
 <samp>
 <h4> 
-<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
 
 
 <br><br>
 <br><br>
 
-
-<img alt="" src="https://github.com/user-attachments/assets/0dbe5a86-3480-43ca-98d6-422e0701f3ab" />
-<br>
+<img width="1700" height="148" alt="Drawing-1 sketchpad (6) (1)" src="https://github.com/user-attachments/assets/10553d76-9897-40ac-8064-95919bf4ff74" />
 
 <br><br>
 <br>
