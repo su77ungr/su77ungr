@@ -36,7 +36,6 @@
 github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b
 
 
-<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
 
 
 ---!>
@@ -53,7 +52,7 @@ github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b
 <br><br>
 <br><br>
 
-<img width="1700" height="148" alt="Drawing-1 sketchpad (6) (1)" src="https://github.com/user-attachments/assets/10553d76-9897-40ac-8064-95919bf4ff74" />
+<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
 
 <br><br>
 <br>
