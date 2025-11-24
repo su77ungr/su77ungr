@@ -5,6 +5,8 @@
 |       call https://t1p.de/ReadmeRuReset to rm all rounds       |
 |                                                                |
 |                   WAIT FEW SECONDS FOR PAINT                   | 
+|                   WORKS WITHOUT ACTIONS BTW                    |
+|     IF DEPL IS DOWN; THIS WAS A ROULETTE ROULETTE SVG GAME     | 
 |                                                                | 
 |                <img src="http://t1p.de/readmeR">               | 
 |                       creator su77ungr                         | 
