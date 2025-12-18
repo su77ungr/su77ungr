@@ -26,6 +26,9 @@ github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b
 
 <img width="222px" alt="" src="https://www.anybrowser.org/campaign/bvgraphics/bvwabq.gif" alt="which are technically dinosaurs" />
 
+<img width="222px" src="http://t1p.de/readmeR">  
+
+
 ---!>
 
 <div align="center">
@@ -38,13 +41,20 @@ github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b
 <br><br>
 <br><br>
 
-<img width="222px" src="http://t1p.de/readmeR">  
+
+<img width="" alt="" src="https://github.com/user-attachments/assets/f64e38d7-3058-4ad7-8106-c8e39182b26d" />
+<img width="" alt="" src="https://github.com/user-attachments/assets/6363ed7c-45dd-4fe5-8fef-b75b02b81448" />
+
+
 
 <br><br><br>
 
 
 
 <img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
+
+
+
 
 <br><br><br>
 
