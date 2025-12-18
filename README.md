@@ -40,9 +40,6 @@
 <br><br>
 <br><br>
 
-<img width="" alt="" src="https://github.com/user-attachments/assets/6363ed7c-45dd-4fe5-8fef-b75b02b81448" />
-
-
 
 <br><br><br><br><br><br>
 
