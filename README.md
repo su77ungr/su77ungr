@@ -43,11 +43,7 @@
 
 <br><br><br><br><br><br>
 
-<samp> Artist in residence at </samp>  <br>
-
-
 <img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
-
 
 <br><br><br>
 
