@@ -38,13 +38,12 @@
 <br><br>
 
 
-<img width="322px" src="https://github.com/user-attachments/assets/ee04ccdf-e744-4bea-8b72-5b5e071a1aee">  
+<img width="222px" src="https://github.com/user-attachments/assets/ee04ccdf-e744-4bea-8b72-5b5e071a1aee">  
 
 
+<br><br><br>
 
-<br><br><br><br><br><br>
-
-<img width="322px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
+<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
 
 <br><br><br>
 
