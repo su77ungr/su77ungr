@@ -51,13 +51,7 @@
 <br><br>
 <br><br>
 
-<img width="" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/d5e3a709-4ffd-4397-940e-ba49daeb902c" />
-
-
-
-<img width="" height="100" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/e15f2ad5-cbbf-4e5b-ba45-500088edb760" />
-
-
+<img width="800px" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/d5e3a709-4ffd-4397-940e-ba49daeb902c" />
 
 
 
