@@ -54,7 +54,7 @@
 
 
 
-<img width="800px" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/35bd96c5-92ac-4b47-a01e-1b46dbfd503a" />
+<img width="500px" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/35bd96c5-92ac-4b47-a01e-1b46dbfd503a" />
 
 <br><br>
 <br>
