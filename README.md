@@ -55,8 +55,8 @@
 
 <br><br>
 
+<img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
 
-<img width="650" src="https://i.imgur.com/7AIhYuz.jpeg" />
 
 
 <br>
