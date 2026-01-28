@@ -55,16 +55,9 @@
 
 <br><br>
 
-
-<img width="300px" height="" alt="CF49A95B-90FD-4BB7-8802-8486C3E6F7B8" src="https://github.com/user-attachments/assets/8ce2dd5c-3e23-4636-a8f1-0d70c1680409" />
-
-<br><br>
+<img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
 
 
-<br><br>
-
-
-<br><br>
 <br>
 <br>
 <br><br>
