@@ -53,13 +53,16 @@
 <br><br>
 
 
-<img width="300px" height="" alt="CF49A95B-90FD-4BB7-8802-8486C3E6F7B8" src="https://github.com/user-attachments/assets/4086bb63-11a7-4996-8644-9a61efe969b9" />
+<br><br>
+
+
+<img width="300px" height="" alt="CF49A95B-90FD-4BB7-8802-8486C3E6F7B8" src="https://github.com/user-attachments/assets/8ce2dd5c-3e23-4636-a8f1-0d70c1680409" />
 
 <br><br>
 
 
+<br><br>
 
-<img width="300px" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/35bd96c5-92ac-4b47-a01e-1b46dbfd503a" alt="finished w/h Gen-AI. original took 60hours"/>
 
 <br><br>
 <br>
