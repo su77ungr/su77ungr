@@ -54,14 +54,14 @@
 
 
 <br><br>
-<img width="222px" src="https://github.com/user-attachments/assets/16389f74-153c-45c7-9ccd-f2d433ef5200" /> <br>
+ <br>
 <img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
 
 
 
 <br>
 
-<img width="222px" src="https://github.com/user-attachments/assets/89588da4-9026-4c34-b313-01ff9ef6447d" />
+<img width="222px" src="https://i.imgur.com/0hUYtgl.png" />
 
 <br>
 
