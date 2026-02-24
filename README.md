@@ -24,31 +24,14 @@
 
 
 
-
-<img width="222px" alt="" src="https://www.anybrowser.org/campaign/bvgraphics/bvwabq.gif" alt="which are technically dinosaurs" />
-
 <img width="222px" src="http://t1p.de/readmeR">  
-
-
-<img width="800px" height="" alt="C627922A-BCDB-4214-99EE-91625086F3F2" src="https://github.com/user-attachments/assets/d5e3a709-4ffd-4397-940e-ba49daeb902c" />
-
-
-<br><br><br>
-
-<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
-
-<br><br><br>
 
 <img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
 
-
-
-<br>
-
-
 <img width="222px" src="https://i.imgur.com/0hUYtgl.png" />
 
-<br>
+<img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
+
 
 
 ---!>
@@ -63,7 +46,9 @@
 
 <br><br>
  <br>
-<img width="222px" src="https://github.com/user-attachments/assets/166adc67-244c-4df5-aa86-92e29d2c8231" />
+
+
+<img width="222px" alt="" src="https://github.com/user-attachments/assets/49f73446-f267-4cfd-8be8-0f940d9c618b" />
 
 
 
