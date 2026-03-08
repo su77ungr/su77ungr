@@ -3,8 +3,6 @@
 <br><br><br><br>
 <img width="222px" src="https://github.com/user-attachments/assets/b88a3dd3-74f5-4783-9c93-5e13ed471eaf">
 <br>
-<img width="352px" src="https://i.imgur.com/BE8YNQE.png">
-
 
 <br><br><br>
 <!---  
