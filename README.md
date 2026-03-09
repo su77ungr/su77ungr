@@ -1,7 +1,10 @@
 <div align="center">
 
 <br><br><br><br>
-<img width="222px" src="https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ2l0aHViL2ltZ18ydHpOQnBEeHlLV1NNcUx5MzhiaExpRkx5YjgifQ">
+<samp>The Linux  kernel has <br> CONFIG_SHUFFLE_PAGE_ALLOCATOR <br> to randomize which memory e <br> gets allocated first - <br> but no one <br> activates it by the boot param  <br> page_alloc.shuffle=y </samp> 
+
+<br>
+
 
 <img width="222px" src="https://github.com/user-attachments/assets/b88a3dd3-74f5-4783-9c93-5e13ed471eaf">
 <br>
