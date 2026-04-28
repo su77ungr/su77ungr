@@ -4,6 +4,7 @@
 
 <div align="center">
 
+<samp> bubble sort <samp> 
 
 | <a href=""><samp><a href=""><samp>⏼</samp></a></samp></samp> | 
 | :--- | 
@@ -11,6 +12,14 @@
 | <a href=""> <img width="25" height="95" src="data:"/> <img width="25" height="95" src="data:" /> <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />   |   |   | Exit Code | POSIX Error | 
 | | | 
 
+
+
+| <img width="25" height="50" src="data:"/> <img width="25" height="30" src="data:"/> <img width="25" height="80" src="data:"/> <img width="25" height="10" src="data:"/> <img width="25" height="90" src="data:"/> <img width="25" height="20" src="data:"/> |
+| :--- |
+| <img width="25" height="30" src="data:"/> <img width="25" height="50" src="data:"/> <img width="25" height="10" src="data:"/> <img width="25" height="80" src="data:"/> <img width="25" height="20" src="data:"/> <img width="25" height="90" src="data:"/> |
+| <img width="25" height="30" src="data:"/> <img width="25" height="10" src="data:"/> <img width="25" height="50" src="data:"/> <img width="25" height="20" src="data:"/> <img width="25" height="80" src="data:"/> <img width="25" height="90" src="data:"/> |
+| <img width="25" height="10" src="data:"/> <img width="25" height="30" src="data:"/> <img width="25" height="20" src="data:"/> <img width="25" height="50" src="data:"/> <img width="25" height="80" src="data:"/> <img width="25" height="90" src="data:"/> |
+| <img width="25" height="10" src="data:"/> <img width="25" height="20" src="data:"/> <img width="25" height="30" src="data:"/> <img width="25" height="50" src="data:"/> <img width="25" height="80" src="data:"/> <img width="25" height="90" src="data:"/> |
 
 
 
