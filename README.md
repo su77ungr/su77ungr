@@ -10,7 +10,7 @@ live free or die - unix
 ---!> 
 
 
-<samp> By breaking a polygon into its monotone polygons <br> a full markdown native graphic can be procuded <br> Enjoy Frame 1557 from BadApple!! </samp> 
+<samp> By breaking a polygon into its monotone polygons <br> emtpy ```img``` tags compose this markdown native graphic <br> Enjoy Frame 1557 from BadApple!! </samp> 
 
 
 <br><br><br> 
