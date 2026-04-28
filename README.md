@@ -10,7 +10,7 @@ live free or die - unix
 ---!> 
 
 
-<samp> <br> img src="data:" tags compose this markdown native graphic <br>  by breaking the polygon into its monotone polygons <br> enjoy frames 1013 & 1557  from BadApple!! </samp> 
+<samp> <br> img src="data:" tags compose this markdown native graphic <br> enjoy frames 1013 & 1557 from BadApple!! </samp> 
 
 
 <br><br><br>
