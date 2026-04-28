@@ -15,7 +15,7 @@
 <table>
 <tr>
 
-<samp> By breaking a polygon <br> into monotone polygons <br> a full Image can be reproduced <br> (Frame 1078 from BadApple!!) <br> ```<img width="3" height="40" src="data:"> ```
+<samp> By breaking a polygon into its <br> monotone polygons a full markdown <br> native graphic can be procuded <br> (Frame 1078 from BadApple!!) <br> ```<img width="3" height="40" src="data:"> ```
 
 
 <div class="column" style="display: flex; flex-direction: column; width: 2px;">
