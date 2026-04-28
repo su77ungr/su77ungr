@@ -2,17 +2,15 @@
 <br><br><br><br>
 
 
-<div align="center"> <a href=""> 
+<div align="center">
 
 
-  
-| <th><samp><samp>⏻</samp></samp> | 
+| <a href=""><samp><samp>⏻</samp></samp> | 
 | :--- | 
 | | 
+| | 
+| <a href=""> <img width="25" height="95" src="data:"/> <img width="25" height="95" src="data:" /> <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />   |   |   | Exit Code | POSIX Error | 
 | | | 
-| <img width="25" height="95" src="data:"/> <img width="25" height="95" src="data:" /> <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />  <img width="25" height="95" src="data:" />   |   |   | Exit Code | POSIX Error | 
-| | | 
-
 
 
 
