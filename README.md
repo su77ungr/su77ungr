@@ -11,8 +11,3 @@
 
 <br><br><br><br><br>
 
-Rabbit r1 with cracked bootloader streams MacOS via Sidecar
-
-
-<img width="402" height="360" alt="04249C18-CCFC-469A-97C2-2382801027B5_4_5005_c" src="https://github.com/user-attachments/assets/1ef79396-ca19-45f4-8be9-7be30d220796" />
-
