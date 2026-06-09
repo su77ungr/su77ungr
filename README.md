@@ -2,7 +2,10 @@
 
 
 <br><br><br>
-<img alt="alysia liu drops pnpm install for bun install" src="https://github.com/user-attachments/assets/a90af5ce-7b09-4ba6-aaec-9e83384a619a" width=250px />
+
+
+
+<img height="700" alt="" src="https://github.com/user-attachments/assets/f5689afc-0824-46da-bdce-68f7773f24f8" />
 <br><br><br>
 
 <!---
