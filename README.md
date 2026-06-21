@@ -1,8 +1,5 @@
 <div align="center"> 
 
-
-
-<samp> Go, Go and WebAssembly </samp>
 <br><br><br>
 
 
