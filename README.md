@@ -4,12 +4,7 @@
 <br><br><br>
 
 
-<img width="760" height="380" src="https://github.com/user-attachments/assets/5c7dd0e6-e3ca-45be-b6de-8bed32fe4899" />
-
-
-<div align="right">
-
-<img width="340" src="https://github.com/user-attachments/assets/b7eeb62a-987e-42c0-87cb-36c32ba9ad63" />
+<img width="300" height="" alt="30455785-BD5D-4DDC-8855-55E45F29633E_1_105_c" src="https://github.com/user-attachments/assets/b97c696a-c02b-4fd2-9781-442584706f7c" />
 
 <br><br><br>
 
