@@ -1,6 +1,17 @@
+
+
+
 <div align="center">
 
-<samp> Datastar is exactly like React, except without the network, virtual DOM, hooks, or JavaScript bullshit. Oh and you get multiplayer and realtime for free. Did I mention you can use any backend language you want? Datastar has solved the frontend for me – I can now get back to solving business problems. Thank god. </samp> 
+<samp> 
+  The Google Authenticator App is obsolete. Export your existing OTP codes with <a href="https://github.com/dim13/otpauth"> otpauth </a> and migrate today. 
+</samp>
+
+<br><br>
+
+<samp> 
+  Datastar is exactly like React, except without the network, virtual DOM, hooks, or JavaScript bullshit. Did I mention you can use any backend language you want? Datastar has solved the frontend for me. Try out <a href="https://data-star.dev/">datastar</a>. 
+</samp> 
 
 <br><br>
 
