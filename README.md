@@ -10,7 +10,7 @@
 <br><br>
 
 <samp> 
-  What the hell is a hydration error? Don't waste your life with typsecript and react. Try out <a href="https://data-star.dev/">datastar</a>. 
+  What the hell is a hydration error? Don't waste your life with typescript and react. Try out <a href="https://data-star.dev/">datastar</a>. 
 </samp> 
 
 <br><br>
