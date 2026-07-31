@@ -4,7 +4,7 @@
 <div align="center">
 
 <samp> 
-  The Google Authenticator App is obsolete. Export your existing OTP codes with <a href="https://github.com/dim13/otpauth"> otpauth </a> and migrate today. 
+  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth"> otpauth </a> and migrate today. 
 </samp>
 
 <br><br>
