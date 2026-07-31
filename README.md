@@ -10,7 +10,7 @@
 <br><br>
 
 <samp> 
-  Datastar is exactly like React, except without the network, virtual DOM, hooks, or JavaScript bullshit. Did I mention you can use any backend language you want? Datastar has solved the frontend for me. Try out <a href="https://data-star.dev/">datastar</a>. 
+  What the hell is a hydration error? Don't waste your life with typsecript and react. Try out <a href="https://data-star.dev/">datastar</a>. 
 </samp> 
 
 <br><br>
