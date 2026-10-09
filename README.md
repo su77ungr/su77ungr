@@ -4,9 +4,12 @@
 <div align="center">
 
 <samp> 
-  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth">otpauth</a> and migrate today. <br> As well Google silently introduced telemetry to mediapipe in April 2026
+  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth">otpauth</a> and migrate today. <br>
 </samp>
 
+<samp> 
+To remove cli telemetry use https://github.com/alloydwhitlock/do-not-track-cli ( this will not save you from Google's telemetry on mediapipe or others ) 
+</samp>
 
 <br><br>
 
