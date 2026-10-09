@@ -4,14 +4,9 @@
 <div align="center">
 
 <samp> 
-  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth"> otpauth </a> and migrate today. 
+  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth">otpauth</a> and migrate today. As well Google silently introduced telemetry to automatically send logs to Google when using mediapipe and any other ml framework (https://odml.pa.googleapis.com/v1/log)
 </samp>
 
-<br><br>
-
-<samp> 
-  What the hell is a hydration error? Don't waste your life with typescript and react. Try out <a href="https://data-star.dev/">datastar</a>. 
-</samp> 
 
 <br><br>
 
