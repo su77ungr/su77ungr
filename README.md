@@ -15,7 +15,7 @@ To remove cli telemetry use https://github.com/alloydwhitlock/do-not-track-cli (
 
 
 <samp> 
-  <samp> Each pixel is a GFM DOM-node. Shepard Font by Mozilla </samp> <br><br>
+  <samp> Each pixel is a GFM DOM-node. Mozilla (1998) font modified by Shepard Fairey. Evil eye by unknown. </samp> <br><br>
 </samp>
 
 
