@@ -4,7 +4,7 @@
 <div align="center">
 
 <samp> 
-  Google Authenticator should not exist. Export all OTP codes with <a href="https://github.com/dim13/otpauth">otpauth</a> and migrate today. <br>
+  Google Authenticator should not exist. Easily export OTP codes with <a href="https://github.com/dim13/otpauth">otpauth</a> and migrate today. <br><br>
 </samp>
 
 <samp> 
